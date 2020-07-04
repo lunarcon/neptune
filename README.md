@@ -28,3 +28,6 @@ Also, Never run this in the IDLE, it just won't work
 <h3>Requirements</h3><br>
 tabulate, colorama, enablecolor.reg (one time only)
 <hr></hr>
+<h3>Current limitations</h3><br>
+right now, there re lots, but keep in mind that this first version cannot save the changes yet.
+<hr></hr>
