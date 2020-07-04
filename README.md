@@ -1,5 +1,5 @@
 <h1 align="center">𝖓𝖊𝖕𝖙𝖚𝖓𝖊</h1>
-<h3 align="center">The second iteration of databasic. Now much better. Currently under development, and incomplete.</h3>
+<h3 align="center">The second generation of databasic. Now much better. Currently under development, and incomplete.</h3>
 <img src="preview.png"/>
 <hr></hr>
 <h3>What can you do with this?</h3>
