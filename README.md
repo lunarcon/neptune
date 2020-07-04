@@ -12,7 +12,8 @@
 <hr></hr>
 <h3>Caution</h3>
 <br>To have the colors correctly rendered, you need to have a registry entry in place. If you don't have it already, all you need to do is have the 'enablecolor.reg'
-in the same directory as neptune. It will detect this file while openining up and install this for you, apter prompting for permission. You may need to restart neptune afterwerds.
+in the same directory as neptune. It will detect this file while openining up and install this for you, apter prompting for permission. You may need to restart neptune afterwards.
+<br>If you already have this entry in place, simply delete the file, so its not executed every time neptune is run.
 <br><br>
 Also, Never run this in the IDLE, it just won't work
 <hr></hr>
