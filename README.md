@@ -4,6 +4,7 @@
 <hr></hr>
 <h3>What can you do with this?</h3>
 <br>A lot. It's more colorful, more customizable, offers greater efficiency through the syntax and is easy to learn.
+<br>For testing, you can use the provided tdata.dbc Keep it in the dbase folder, and keep the dbase folder in the same directory as neptune
 <hr></hr>
 <h3>Syntax</h3>
 <br>You can have all your commands in a single line (separated by ';', but the last command of the line should not have the ';'
