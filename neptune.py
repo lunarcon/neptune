@@ -28,8 +28,8 @@ pty=True
 
 #if you already have color enabled in commandline
 #, just delete enablecolor.reg and these two lines will not execute.
-if os.path.exists("enablecolor1.reg"):
-    os.system('enablecolor1.reg')
+if os.path.exists("enablecolor.reg"):
+    os.system('enablecolor.reg')
 
 cmds=["BEGIN TABLE","CLS{TYPE:","CLS{NAME:","DATA{","END TABLE"]
 curname=""
