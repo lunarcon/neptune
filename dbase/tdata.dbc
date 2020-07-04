@@ -1,0 +1,5 @@
+BEGIN TABLE tdata
+CLS{TYPE:str;int;str;str;date}
+CLS{NAME:Student Name;Age;Class;Section;DOB}
+DATA{ROW{Aditya Vikram;17;XII;J;25-04-03}|ROW{Arjun Man;19;XIII;Z;35-13-2041}}
+END TABLE
