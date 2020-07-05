@@ -30,4 +30,5 @@ tabulate, colorama, enablecolor.reg (one time only)
 <hr></hr>
 <h3>Current limitations</h3><br>
 right now, there re lots, but keep in mind that this first version cannot save the changes yet.
+as of this build, the only manipulator is add-record
 <hr></hr>
